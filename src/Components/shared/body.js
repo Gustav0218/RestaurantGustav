@@ -1,5 +1,9 @@
+import Option from "./card";
 const Body = () => {
-    return( <h1>Body </h1>
+    return( 
+      <>
+      <Option />
+      </>
     )
   };
   

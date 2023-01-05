@@ -16,6 +16,7 @@ function App() {
           <Route path = "*" element ={<NoPage />}></Route>
           <Route path = "contactanos" element={<Form />}></Route>
           <Route path = "direccion" element={<Adress />}></Route>
+
          </Route>
       </Routes>
     </BrowserRouter>

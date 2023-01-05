@@ -5,7 +5,12 @@ flex-direction: column;
 height: 20vh;
 justify-content: space-between;
 }
-
-
- 
+.cards{
+    display: flex;
+    justify-content: space-between;
+}
+ .btn{
+background-color: chocolate;
+color: aliceblue;
+}
 
