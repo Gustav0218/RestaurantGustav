@@ -6,7 +6,7 @@ const Header = () => {
     <>
       <Navbar bg="dark" variant="dark">
         <Container>
-          <Navbar.Brand href="#home">Bienvendo a Tu Restaurante</Navbar.Brand>
+          <Navbar.Brand href="#home" >Bienvendo a Tu Restaurante</Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link href="/">Inicio</Nav.Link>
             <Nav.Link href="direccion">Contacto</Nav.Link>
