@@ -3,7 +3,7 @@ import Tarjeta2 from "../shared/card2";
 const Home = () => {
   return (
     <>
-    <div className="Cards">
+    <div >
     <Tarjeta1 />
     <Tarjeta2 />
    </div>
