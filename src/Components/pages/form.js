@@ -14,7 +14,7 @@ const Formulario = () => {
   
   const handleSubmit = async (event) => {
   event.preventDefault();
-  
+  debugger;
   try {
     const coment = collection (db, "Clients")
     const resp = await addDoc (coment,inputs );
